@@ -1,0 +1,48 @@
+body {
+    background-color: #683CCD;
+    color: white;
+    padding-bottom: 56px;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    list-style-position: inside;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+article {
+    border: 0px #ffffff none;
+    background-color: #744E4F;
+    padding: 17px;
+    margin: 25px auto;
+    border-radius: 12px;
+    width: 85%;
+    box-shadow: 10px 10px 5px #412b2d;
+}
+
+h1 {
+    font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Cantarell, 'Helvetica Neue';
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-weight: bold;
+}
+
+
+textarea {
+    width: 250px;
+    height: 100px;
+}
